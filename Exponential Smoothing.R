@@ -1,8 +1,5 @@
 ###Exponential Smoothing Model
 
-#Set Working directory 
-setwd("/Users/raphyjean/Desktop/GTX 6501/hw4-SP22") 
-
 
 #Upload the dataset
 temps_data = read.table("temps.txt", header=TRUE) 
