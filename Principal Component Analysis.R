@@ -1,4 +1,4 @@
-### Principal Component Analysis
+### Principal Component Analysis ###
 
 
 #Load in DAAG and tidyverse library 
