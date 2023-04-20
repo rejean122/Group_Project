@@ -5,7 +5,7 @@ setwd("/Users/raphyjean/Desktop/GTX 6501/hw4-SP22")
 
 
 #Upload the dataset
-temps_data = read.table("~/Desktop/GTX 6501/hw4-SP22/temps.txt", header=TRUE) 
+temps_data = read.table("temps.txt", header=TRUE) 
 
 #To ensure codes are reproducible, set seed
 
