@@ -1,6 +1,3 @@
-#Set Working directory 
-setwd("/Users/raphyjean/Desktop/GTX 6501/hw5-SP22") 
-
 
 #Upload the dataset
 crime_data = read.table("uscrime.txt", stringsAsFactors= FALSE, header=TRUE) 
