@@ -1,2 +1,2 @@
 # Modeling-Examples
-Few examples of modeling, data cleaning, visualization I am versed in
+Few examples of modeling, data cleaning, visualizations, etc. I am versed in
